@@ -1,4 +1,4 @@
-// Problem B - Educational Dynamic Programming Contest - AtCoder
+// Educational Dynamic Programming Contest - AtCoder
 // Link: https://atcoder.jp/contests/dp/tasks/dp_b
 // B - Frog 2
 
